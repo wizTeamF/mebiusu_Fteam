@@ -1,0 +1,2 @@
+C:\Users\bk01r\Desktop\ゲーム制作2021\Libs\lib\Debug\DirectXTex.pdb
+C:\Users\bk01r\Desktop\ゲーム制作2021\EmptyProject\Temp\DirectXTX\Debug\BaseCrossDx11VS2019\DirectXTex.pdb
